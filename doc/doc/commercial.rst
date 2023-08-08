@@ -92,6 +92,12 @@ contains plugins to Nuitka that will achieve the following:
 
       `Read more.... <commercial/commercial-only-packages.html>`__
 
+   .. grid-item-card:: Code Signing
+      :class-item: nuitka-grid-security
+
+      Nuitka Commercial avoids onefile or standalone binaries being executed if
+      it has detected that the source code has been modified
+
 *******************************************
  Special needs (Commercial only use cases)
 *******************************************
